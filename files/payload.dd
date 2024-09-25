@@ -1,0 +1,7 @@
+DELAY 200
+GUI r
+DELAY 200
+STRING notepad
+ENTER
+DELAY 200
+STRING Hello, World!
